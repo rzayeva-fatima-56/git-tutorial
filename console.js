@@ -1,2 +1,2 @@
-console.log("log3")
-console.log("version3")
+console.log("log")
+console.log("version1")
